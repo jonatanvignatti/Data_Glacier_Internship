@@ -1,3 +1,3 @@
-# Data_Glacier_Internship
+## Data_Glacier_Internship
 
-!3 weeks of data science training.
+# 13 weeks of data science training.
